@@ -13,3 +13,4 @@ spring:
         dialect: org.hibernate.dialect.MySQL8Dialect
         show_sql: true
         #demo
+        #demooo
